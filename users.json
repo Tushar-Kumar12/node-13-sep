@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Olag",
+        "last_name": "Fewlass",
+        "email": "ofewlass0@cafepress.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Alvera",
+        "last_name": "Whetnell",
+        "email": "awhetnell1@ask.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Caspar",
+        "last_name": "Pawelec",
+        "email": "cpawelec2@patch.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Terrill",
+        "last_name": "Brigg",
+        "email": "tbrigg3@g.co",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Dalila",
+        "last_name": "Marler",
+        "email": "dmarler4@gmpg.org",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Romain",
+        "last_name": "Gaymer",
+        "email": "rgaymer5@about.com",
+        "gender": "Bigender"
+    },
+    {
+        "id": 7,
+        "first_name": "Aurora",
+        "last_name": "Gascard",
+        "email": "agascard6@studiopress.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 8,
+        "first_name": "Inez",
+        "last_name": "Sanson",
+        "email": "isanson7@edublogs.org",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Tabby",
+        "last_name": "McClurg",
+        "email": "tmcclurg8@cocolog-nifty.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Nicolle",
+        "last_name": "MacKnockiter",
+        "email": "nmacknockiter9@xing.com",
+        "gender": "Female"
+    }
+]
