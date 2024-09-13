@@ -6,6 +6,12 @@ router.get('/users',(req,res)=>{
     usercontroller.getAllUsers(req,res)
 })
 
-router.post('/user/:id')
+router.get('/user/:id',(req,res)=>{
+    usercontroller.getUser(req,res)
+})
+
+// router.post('/user/:id',(req,res)=>{
+//     usercontroller.addUser(req,res)
+// })
 
 module.exports=router
